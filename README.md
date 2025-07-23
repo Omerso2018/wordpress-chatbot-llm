@@ -29,7 +29,7 @@ A lightweight, self-contained AI chatbot for WordPress — combining frontend UI
    $api_key = 'your-api-key';
    $model = 'your-model-name';
 
-  3. Add URL endpont for your API Provider:
+  3. Add the URL endpont for your API Provider:
 
     $response = wp_remote_post('https:// your-endpoint-here';
 
