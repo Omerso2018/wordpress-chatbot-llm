@@ -29,8 +29,13 @@ A lightweight, self-contained AI chatbot for WordPress — combining frontend UI
    $api_key = 'your-api-key';
    $model = 'your-model-name';
 
-  3. Customize the system prompt inside the file to guide the assistant’s behavior.
-  4. Copy the entire PHP code into your WordPress site using a plugin like:
+  3. Add URL endpont for your API Provider:
+    ```php
+
+    $response = wp_remote_post('https:// your-endpoint-here'
+
+  4. Customize the system prompt inside the file to guide the assistant’s behavior.
+  5. Copy the entire PHP code into your WordPress site using a plugin like:
 
 ✅ Code Snippets – WordPress Plugin
 
