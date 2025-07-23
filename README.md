@@ -33,6 +33,7 @@ A lightweight, self-contained AI chatbot for WordPress — combining frontend UI
   4. Copy the entire PHP code into your WordPress site using a plugin like:
 
 ✅ Code Snippets – WordPress Plugin
+
 ❗ Or embed it directly in your theme (functions.php) — not recommended for beginners
 
 5. ✨ Save and activate — the chatbot will appear on your site! 🥳
@@ -40,6 +41,7 @@ A lightweight, self-contained AI chatbot for WordPress — combining frontend UI
 --------------------------------------------------------------
 
 🧩 Customization
+
 🔧 System Prompt – Personalize the chatbot's role, tone, and intent
 
 🔄 Model Switching – Swap LLMs by changing the $model variable
@@ -47,23 +49,27 @@ A lightweight, self-contained AI chatbot for WordPress — combining frontend UI
 🎨 Style/UI – Modify inline HTML/CSS directly in the file
 
 🛠 Requirements
-A WordPress website
 
-API key from a supported AI provider (e.g., OpenRouter, Together AI)
+- A WordPress website
 
-The Code Snippets plugin (or manual theme editing)
+- API key from a supported AI provider (e.g., OpenRouter, Together AI)
+
+- The Code Snippets plugin (or manual theme editing)
 
 📌 Notes
-Everything is contained in one PHP file — no JS or CSS dependencies
 
-Ideal for minimal deployments, demos, or fast LLM integrations into WordPress
+- Everything is contained in one PHP file — no JS or CSS dependencies
 
-You can further extend with webhooks, logging, or chat history
+- Ideal for minimal deployments, demos, or fast LLM integrations into WordPress
+
+- You can further extend with webhooks, logging, or chat history
 
 📜 License
-This project is open-source under the MIT License.
+
+-This project is open-source under the MIT License.
 
 🤝 Contributions
-Feel free to open issues, suggest features, or submit pull requests. Let’s build smarter web experiences together!
+
+- Feel free to open issues, suggest features, or submit pull requests. Let’s build smarter web experiences together!
 
 
