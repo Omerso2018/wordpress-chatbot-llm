@@ -15,6 +15,7 @@ A lightweight, self-contained AI chatbot for WordPress — combining frontend UI
 - 💬 Chatbot UI + logic in a single PHP file
 - 📱 mobile responsive 
 - 🧠 Supports any LLM API (OpenRouter, Together AI, etc.)
+- 🔄 Memory for conversation ( Ai can remember user replies)
 - ✍️ Customize system prompt and model behavior
 - ⚡ No installation — simply copy-paste to WordPress
 - 🧩 Minimal dependencies, fast setup
